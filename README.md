@@ -12,27 +12,8 @@ https://www.figma.com/proto/67h5Gf6kuziMhLcLD3vK8P/Final-Project-My-Version?type
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <hr>
-Product Guidelines and Requirements:
-* Include product objectives (8-10)
-* Problem Statement
-* Solutions
-* Design System – Please follow google material design guidelines and explain about used colors, fonts, icons, dimensions of the screen layout and logo
-* Target Audience
-* Design Process
-* Personas (3-4) - including goals, frustrations, a summary of the persona
-* User Needs (8-10)
-* Any research method your team applied - highlight the results and how you implemented the method in your project
-* Card Sorting Applied
-* User Workflow / Information Architecture
-* Error Handling - highlight how are you handling errors in your app
-* Usability testing objectives & tasks
-* Slide summarizing how each plane has been applied to the project. For example, in the Scope plane we learned how to write requirements & prioritize them according to MoSCoW 
-  technique. So, based on each plane just summarize what you applied to your project topic from that particular plane and how you gradually build your project by combining all the 
-  learnings from these different planes.
-* Use plugins, proper transitions, animations, frames, components, Libraries, scrolling, sliding or other inbuilt features from the tools ( FIGMA / AXURE RP) which may enhance the 
-  experience for your application
-* Onboarding screens
-* Demo of wireframesPlease make sure to also share a link to your prototypes
+<img width="782" alt="Screenshot 2023-11-11 at 3 48 02 PM" src="https://github.com/HemanthReddy10/User-Experience-Design-and-Testing/assets/99050861/a6103eac-6476-4323-ab05-e9d5db5ef327">
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
